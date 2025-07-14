@@ -35,7 +35,7 @@ import mysqlLogo from './assets/Skills/mysql.png';
 import netlifyLogo from './assets/Skills/netlify.png';
 import postmanLogo from './assets/Skills/postman.png';
 import pythonLogo from './assets/Skills/python.png';
-import PhpLogo from './assets/Skills/php.png';
+import PhpLogo from './assets/Skills/Php.png';
 import LaravelLogo from './assets/Skills/Laravel.png';
 import reactjsLogo from './assets/Skills/reactjs.png';
 import springbootLogo from './assets/Skills/springboot.png';
